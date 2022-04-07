@@ -1,0 +1,17 @@
+site_name: zahra kheiroddin
+site_url: https://wim1997.github.io
+repo_url: https://github.com/wim1997/https-wim1997.github.io.git
+site_author: you
+site_description: detail project
+nav:
+   - start: index.md
+   - install docker : installationdocker.md
+   - mkdocs : mkdocs.md
+   - elasticsearch : elasticsearch.md
+   - pythoncsv : pythoncsv.md
+   - bashsccsvinmysql : bashsccsvinmysql.md
+   - csvtojsoncode : csvtojsoncode.md 
+   - jsonpython : jsonpython.md
+   - dockercompose : dockercompose.md
+   - csv2json : csv2json.md
+   - kibana : kibana.md
